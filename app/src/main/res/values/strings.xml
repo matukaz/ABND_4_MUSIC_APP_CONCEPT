@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ABND_4_PROJECT_MUSIC_APP_SKETCH</string>
+    <string name="search">Search</string>
+    <string name="playing_now">Playing Now</string>
+    <string name="here_we_should_show_a_playlist_could_search_for_local_storage_for_mp3_or_mp4_or_other_music_files">Here we should show a Playlist. Could search for local storage for mp3 or mp4 or other music files.</string>
+    <string name="in_app_purchases">In App Purchases</string>
+    <string name="just_show_some_area_person_can_tap_on_and_then_search_opens_and_shows_a_listview_with_results_below">Just show some area person can tap on and then search opens and shows a Listview with results below.</string>
+    <string name="can_use_google_in_app_billing_or_purchases_api_to_make_like_a_product_that_if_person_buys_it_then_no_ads_are_shown_in_app_also_found_a_really_cool_library_on_reddit_com_r_androiddev_called_premiumer_looks_intresting_and_easy_to_use_for_small_iap_needs">Can use Google In-app Billing (or purchases) API to make like a product, that if person buys it then no ads are shown in app. Also found a really cool library on reddit.com/r/androiddev called Premiumer, looks intresting and easy to use for small IAP needs.</string>
+    <string name="this_screen_will_show_metadata_and_other_kind_of_info_about_music_that_is_playing_right_now_also_controls_for_music_player_possible_to_use_api_like_last_fm_to_get_metadata_of_music_and_lyrics_and_album_pictures_and_genre">This screen will show Metadata and other kind of info about music that is playing right now, also controls for music player. Possible to use API like \'Last.fm\' to get metadata of music and lyrics and album pictures and genre.</string>
+</resources>
